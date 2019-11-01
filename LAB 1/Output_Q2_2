@@ -1,0 +1,40 @@
+Enter size of array:
+10
+Enter elements of Array:
+1 2 3 4 5 6 7 8 9 0
+---------------------
+No of copies in #1 = 1
+
+New Array:
+1 
+---------------------
+
+---------------------
+No of copies in #2 = 2
+
+New Array:
+1 2 
+---------------------
+
+---------------------
+No of copies in #3 = 4
+
+New Array:
+1 2 3 4 
+---------------------
+
+---------------------
+No of copies in #4 = 8
+
+New Array:
+1 2 3 4 5 6 7 8 
+---------------------
+
+
+
+FINAL ARRAY:
+1 2 3 4 5 6 7 8 9 0 
+Copies = 15
+Insertions = 10
+Average = 2.5
+

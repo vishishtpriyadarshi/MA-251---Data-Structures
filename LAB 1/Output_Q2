@@ -1,0 +1,26 @@
+Enter size of array:
+4
+Enter elements of Array:
+1 2 3 4 
+---------------------
+No of copies in #1 = 1
+
+New Array:
+1 
+---------------------
+
+---------------------
+No of copies in #2 = 2
+
+New Array:
+1 2 
+---------------------
+
+
+
+FINAL ARRAY:
+1 2 3 4 
+Copies = 3
+Insertions = 4
+Average = 1.75
+
